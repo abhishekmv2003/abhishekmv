@@ -27,7 +27,6 @@ C | C++
 
 ## Featured Projects
 
-- RISC-V Single-Cycle CPU
 - RSA-128 Hardware Accelerator
 - FPGA Digital Design Projects
 

@@ -10,7 +10,7 @@ FPGA design, VLSI and computer architecture.
 
 - 🎓 B.Tech in Electronics & Communication Engineering
 - 🔧 Interested in FPGA and VLSI
-- 💻 Working with Verilog, C
+- 💻 Working with Verilog, C,C++
 - 🖥️ Experience with Xilinx Vivado and Vitis
 - ⚙️ Interested in digital design and computer architecture
 
@@ -23,7 +23,7 @@ Verilog | FPGA | RTL Design | Digital Electronics
 Xilinx Vivado | Vitis |
 
 ### Programming
-C 
+C | C++
 
 ## Featured Projects
 
